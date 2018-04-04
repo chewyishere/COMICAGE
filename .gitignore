@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 #
 
 /[Ll]ibrary/
-/[Tt]emp//Users/chewy.wu/Documents/workspace/UnityAR/COMICAGE/ProjectSettings
+/[Tt]emp/
+/ProjectSettings/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
